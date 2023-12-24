@@ -1,5 +1,5 @@
 return {
-    "folre/tokyonight.nvim",
+    "folke/tokyonight.nvim",
     nvim = true,
     opts = {
         style = "moon"
